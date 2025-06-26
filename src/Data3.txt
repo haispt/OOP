@@ -1,0 +1,3 @@
+Đây là file data nằm trong Src
+Dòng 1
+Dòng 2
